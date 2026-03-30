@@ -1,11 +1,13 @@
 ---
 
 # 📡 Temperature Monitoring System (Arduino)
+This repository contains a proof of concept (POC) for a temperature monitoring system using Arduino, LEDs, and a buzzer.
 
 ## 📖 Overview
 
 This project is a simple temperature monitoring system built with an Arduino Uno.
 It reads temperature data from a sensor and reacts in real time using LEDs and a buzzer.
+
 
 ---
 
